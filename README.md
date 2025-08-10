@@ -685,19 +685,19 @@ for _data_name in ['CAMO', 'COD10K', 'CHAMELEON', 'NC4K']:
 
 `learning_rate`
 
-![learning_rate](D:image/small_jittor/learning_rate.png)
+![learning_rate](image/small_jittor/learning_rate.png)
 
 `loss_epoch`
 
-![loss_epoch](D:image/small_jittor/loss_epoch.png)
+![loss_epoch](image/small_jittor/loss_epoch.png)
 
 `Loss_Statistics`
 
-![loss_statistics](D:image/small_jittor/loss_statistics.png)
+![loss_statistics](image/small_jittor/loss_statistics.png)
 
 `MAE`
 
-![MAE](D:image/small_jittor/MAE.png)
+![MAE](image/small_jittor/MAE.png)
 
 
 
