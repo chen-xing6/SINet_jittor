@@ -631,15 +631,15 @@ for _data_name in ['CAMO', 'COD10K', 'CHAMELEON', 'NC4K']:
 
  `loss_epoch`
 
-![loss_epoch](image\big_pytorch\loss_epoch.jpg)
+![loss_epoch](image/big_pytorch/loss_epoch.jpg)
 
 `Loss_Statistics`
 
-![Loss_Statistics](image\big_pytorch\Loss_Statistics.jpg)
+![Loss_Statistics](image/big_pytorch/Loss_Statistics.jpg)
 
 `MAE`
 
-![MAE](image\big_pytorch\MAE.jpg)
+![MAE](image/big_pytorch/MAE.jpg)
 
 
 
@@ -647,19 +647,19 @@ for _data_name in ['CAMO', 'COD10K', 'CHAMELEON', 'NC4K']:
 
 `learning_rate`
 
-![learning_rate](image\big_jittor\learning_rate.jpeg)
+![learning_rate](image/big_jittor/learning_rate.jpeg)
 
 `loss_epoch`
 
-![loss_epoch](image\big_jittor\loss_epoch.jpeg)
+![loss_epoch](image/big_jittor/loss_epoch.jpeg)
 
 `Loss_Statistics`
 
-![loss_Statistics](image\big_jittor\loss_Statistics.jpeg)
+![loss_Statistics](image/big_jittor/loss_Statistics.jpeg)
 
 `MAE`
 
-![MAE](image\big_jittor\MAE.jpeg)
+![MAE](image/big_jittor/MAE.jpeg)
 
 ## 5.2. 基于小数据集的实验
 
@@ -667,37 +667,37 @@ for _data_name in ['CAMO', 'COD10K', 'CHAMELEON', 'NC4K']:
 
 `learning_rate`
 
-![learning_rate](image\small_pytorch\learning_rate.jpeg)
+![learning_rate](image/small_pytorch/learning_rate.jpeg)
 
  `loss_epoch`
 
-![loss_epoch](image\small_pytorch\loss_epoch.jpeg)
+![loss_epoch](image/small_pytorch/loss_epoch.jpeg)
 
 `Loss_Statistics`
 
-![loss_statistics](image\small_pytorch\loss_statistics.jpeg)
+![loss_statistics](image/small_pytorch/loss_statistics.jpeg)
 
 `MAE`
 
-![MAE](image\small_pytorch\MAE.jpeg)
+![MAE](image/small_pytorch/MAE.jpeg)
 
 ### 5.2.2. jittor实现实验log
 
 `learning_rate`
 
-![learning_rate](D:image\small_jittor\learning_rate.png)
+![learning_rate](D:image/small_jittor/learning_rate.png)
 
 `loss_epoch`
 
-![loss_epoch](D:image\small_jittor\loss_epoch.png)
+![loss_epoch](D:image/small_jittor/loss_epoch.png)
 
 `Loss_Statistics`
 
-![loss_statistics](D:image\small_jittor\loss_statistics.png)
+![loss_statistics](D:image/small_jittor/loss_statistics.png)
 
 `MAE`
 
-![MAE](D:image\small_jittor\MAE.png)
+![MAE](D:image/small_jittor/MAE.png)
 
 
 
