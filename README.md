@@ -627,7 +627,7 @@ for _data_name in ['CAMO', 'COD10K', 'CHAMELEON', 'NC4K']:
 
 `learning_rate`
 
-![learning_rate](image\big_pytorch\learning_rate.jpg)
+![learning_rate](image/big_pytorch/learning_rate.jpg)
 
  `loss_epoch`
 
